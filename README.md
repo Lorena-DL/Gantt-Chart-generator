@@ -23,7 +23,7 @@ Two parameters are required:
 
 For instance:
 ```
-python3 GanttChart_Github.py -f /path/input.csv -o Gantt.xlxs
+python3 GanttChart_Github.py -f /path/input.csv -o Gantt.xlsx
 ```
 
 Please cite if used and get in contact with comments and suggestions
