@@ -1,7 +1,7 @@
 # Gantt-Chart-generator
 Given a custom table, this file is meant to generate:
 - A Gantt Chart
-- A completed the table with the length of the tasks (in months)
+- A completed table with the length of the tasks (in months)
 
 This script is meant to be used with Python3
 
