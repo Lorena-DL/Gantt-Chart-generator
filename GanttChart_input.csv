@@ -1,0 +1,19 @@
+Task,Description,Start.date,End.date,Month_start,Month_end,Date_of_check_point,Check_point_month,Check_point,Colour,Note
+WP1,WP1. Project start,03/31/2022,05/31/2022,,,No,,No,003366FF,No
+Task_1.1,Task_1.1 Bring team together,03/31/2022,04/30/2022,,,No,,No,0099CCFF,No
+Task_1.2,Task_1.1 Get started,04/30/2022,05/31/2022,,,05/31/2022,,M1,0099CCFF,Project must have started
+WP2.,WP2. Wet lab work,05/31/2022,01/31/2023,,,No,,No,003366FF,No
+Task_2.1,Task_2.1  Optimisation,05/31/2022,07/31/2022,,,No,,No,0099CCFF,No
+Task_2.2,Task_2.2 Sample collection,07/31/2022,12/31/2022,,,10/30/2022,,CP1,0099CCFF,50% of samples to be collected
+Task_2.3,Task_2.3 Tests,09/30/2022,01/31/2023,,,No,,No,0099CCFF,No
+WP3,WP3. Results analysis,05/31/2022,02/28/2023,,,No,,No,003366FF,No
+Task_3.1,Task_3.1 Software testing,05/31/2022,07/31/2022,,,07/31/2022,,M2,0099CCFF,Software can be successfully used
+Task_3.2,Task_3.2 Software analysis,08/31/2022,2/28/2023,,,No,,No,0099CCFF,No
+Task_3.3,Task_3.3 Results evaluation,11/30/2022,2/28/2023,,,No,,No,0099CCFF,No
+Task_3.4,Task_3.4 Results summary,01/31/2023,2/28/2023,,,2/28/2023,,M3,0099CCFF,Have produced a results summary
+WP4,WP4. Reports,03/31/2022,02/28/2023,,,No,,No,003366FF,No
+Task_4.1,Task_4.1 Month 3,05/31/2022,05/31/2022,,,05/31/2022,,R1,0099CCFF,Delivery of Month 3 report
+Task_4.1,Task_4.1 Month 6,08/31/2022,08/31/2022,,,08/31/2022,,R2,0099CCFF,Delivery of Month 6 report
+Task_4.1,Task_4.1 Month 9,11/30/2022,11/30/2022,,,11/30/2022,,R3,0099CCFF,Delivery of Month 9 report
+Task_4.1,Task_4.1 Month 12,02/28/2023,02/28/2023,,,02/28/2023,,R4,0099CCFF,Delivery of Month 12 report
+Task_4.1,Task_4.1 Final report,02/28/2023,02/28/2023,,,02/28/2023,,FR,0099CCFF,Delivery of final report
